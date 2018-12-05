@@ -13,3 +13,6 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+.navbar-trans {
+  background: transparent; }
